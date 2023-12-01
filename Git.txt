@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello...! hai...!
 Have a nice day...!
+=======
+Hello...! hai...! welcome...!
+>>>>>>> aa0c56862060f8fe8db8ecb62c032cb5b7167ee9
